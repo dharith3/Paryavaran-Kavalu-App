@@ -30,6 +30,10 @@ Illegal garbage dumping creates environmental and health problems. Volunteers of
 - Admin dashboard
 - Real-time analytics
 
+## Project Demo Video
+
+[Watch Demo Video Here](https://drive.google.com/file/d/1g76TGgzLq2mKYVWgn6Z85CcyaxpbPqvY/view?usp=drive_link)
+
 ## Screenshots
 
 ![Home Screen](home_screen.png.jpeg)
