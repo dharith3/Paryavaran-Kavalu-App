@@ -29,3 +29,13 @@ Illegal garbage dumping creates environmental and health problems. Volunteers of
 - AI waste detection
 - Admin dashboard
 - Real-time analytics
+
+## Screenshots
+
+![Home Screen](home_screen.png.jpeg)
+
+![Login Screen](login_screen.png.jpeg)
+
+![Profile Screen](profile_screen.png.jpeg)
+
+![Report Screen](report_screen.png.jpeg)
