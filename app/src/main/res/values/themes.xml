@@ -1,0 +1,15 @@
+<resources>
+    <style name="Theme.ParyavaranKavalu" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/forest_green</item>
+        <item name="colorPrimaryVariant">@color/forest_green</item>
+        <item name="colorSecondary">@color/mint_leaf</item>
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:navigationBarColor">@color/clean_white</item>
+    </style>
+
+    <style name="Theme.ParyavaranKavalu.Splash" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:windowBackground">@color/leaf_wash</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+</resources>

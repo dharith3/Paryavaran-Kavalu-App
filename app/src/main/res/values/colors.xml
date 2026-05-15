@@ -1,0 +1,9 @@
+<resources>
+    <color name="forest_green">#2D5A27</color>
+    <color name="mint_leaf">#98D8AA</color>
+    <color name="earth_brown">#5C4033</color>
+    <color name="clean_white">#FFFFFF</color>
+    <color name="leaf_wash">#EEF8F0</color>
+    <color name="status_pending">#E74C3C</color>
+    <color name="status_cleaned">#27AE60</color>
+</resources>
